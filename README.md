@@ -93,7 +93,7 @@ The optimizer identified a **minimal effective subspace**, removing unnecessary 
 
 Run the full project in a read-only Colab environment:
 
-[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.sv](https://colab.research.google.com/drive/1Ya4yq0Im2N9dj6K4eNZumrmTMMdRxrm7?usp=sharing))](PASTE_YOUR_COLAB_LINK_HER)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.sv](https://colab.research.google.com/drive/1Ya4yq0Im2N9dj6K4eNZumrmTMMdRxrm7?usp=sharing))](https://colab.research.google.com/assets/colab-badge.sv](https://colab.research.google.com/drive/1Ya4yq0Im2N9dj6K4eNZumrmTMMdRxrm7?usp=sharing))
 
 ---
 
