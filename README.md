@@ -95,8 +95,4 @@ The optimizer identified a **minimal effective subspace**, removing unnecessary 
 
 ---
 
-### 🔹 Local Setup
-
-```bash
-pip install -r requirements.txt
 
